@@ -8,8 +8,8 @@ const App = () => {
       {/* Do not remove the main div */}
       <PageLayout>
         <h1>Welcome to my website</h1>
-        <p>This is the content of my website</p>
-        <footer>© 2023 My Website. All rights reserved. </footer>
+        <p>This is the content of my website.</p>
+        <footer>© 2023 My Website. All rights reserved.</footer>
       </PageLayout>
     </div>
   );
