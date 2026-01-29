@@ -6,7 +6,6 @@ const App = () => {
   return (
     <div>
       {/* Do not remove the main div */}
-      <h1>pwojedfk feof</h1>
       <PageLayout>
         <h1>Welcome to my Website</h1>
         <p>This is the content of my website</p>
